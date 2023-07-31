@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item  android:id="@+id/Group"
+        android:title="New group"/>
+    <item  android:id="@+id/newBroadcast"
+        android:title="New broadcast"/>
+    <item  android:id="@+id/Linkeddevices"
+        android:title="Linked devices" />
+    <item  android:id="@+id/Starredmessages"
+        android:title="Starred messages"/>
+    <item  android:id="@+id/Payment"
+        android:title="Payment"/>
+    <item  android:id="@+id/Setting"
+        android:title="Setting"
+        app:showAsAction="withText"/>
+
+</menu>
